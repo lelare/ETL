@@ -1,0 +1,462 @@
+1.1 Mathematics	
+
+
+1.1.1 Applied mathematics
+1.1.2 Pure mathematics
+1.1.3 Statistics and probability
+1.1.99 Other
+
+
+1.2 Computer Sciences	
+
+
+1.2.1 Algorithms
+1.2.2 Artificial Intelligence (expert systems, machine learning, robotics)
+1.2.3 Computer architecture
+1.2.4 Computer communications
+1.2.5 Computer graphics
+1.2.6 Computer security and reliability
+1.2.7 Data structures
+1.2.8 Distributed computing
+1.2.9 Human-computer interaction
+1.2.10 Operating systems
+1.2.11 Parallel computing
+1.2.12 Programming languages
+1.2.13 Quantum computing
+1.2.14 Software engineering
+1.2.15 Theory of computation
+1.2.99 Other
+
+1.3 Information sciences	
+
+
+1.3.1 Data management
+1.3.2 Data mining
+1.3.3 Information retrieval
+1.3.4 Information management
+1.3.5  Knowledge management
+1.3.6 Multimedia, hypermedia
+1.3.99 Other
+1.4 Earth Sciences	
+
+
+1.4.1 Atmospheric science
+1.4.2 Climate research
+1.4.3 Geochemistry
+1.4.4 Geology
+1.4.5 Geophysics
+1.4.6 Hydrology
+1.4.7 Mineralogy
+1.4.8. Oceanography
+1.4.9 Palaeontology
+1.4.10 Physical geography
+1.4.11 Seismology
+1.4.12 Volcanology
+1.4.13 Other
+1.5 Biology Science	
+
+
+1.5.1 Aerobiology
+1.5.2 Bacteriology
+1.5.3 Behavioural biology
+1.5.4 Biochemistry and molecular biology
+1.5.5 Biodiversity conservation
+1.5.6 Bioinformatics
+1.5.7 Biological rhythm
+1.5.8 Biology
+1.5.9 Biophysics
+1.5.10 Botany
+1.5.11 Cell biology
+1.5.12 Computational biology
+1.5.13 Cryobiology
+1.5.14 Developmental biology
+1.5.15 Ecology
+1.5.16 Evolutionary biology
+1.5.17 Genetics and heredity
+1.5.18 Marine and Freshwater biology
+1.5.19 Mathematical biology
+1.5.20 Microbiology
+1.5.21 Mycology
+1.5.22 Plant science
+1.5.23 Reproductive biology
+1.5.24 Structural biology
+1.5.25 Taxonomy
+1.5.26 Theoretical biology
+1.5.27 Thermal biology
+1.5.28 Virology
+1.5.29 Zoology
+1.5.99 Other
+1.6 Physical sciences	
+
+
+1.6.1 Accelerator physics
+1.6.2 Acoustics
+1.6.3 Aerosol physics
+1.6.4 Astrobiology
+1.6.5 Astronomy
+1.6.6 Astroparticle physics
+1.6.7 Astrophysics
+1.6.8 Atomic
+1.6.9 Chemical physics
+1.6.10 Computational physics
+1.6.11 Condensed matter physics
+1.6.12 Cryogenics
+1.6.13 Fluid Mechanics
+1.6.14 Fusion	1.6.15 High energy physics
+1.6.16 Mathematical physics
+1.6.17 Medical physics
+1.6.18 Molecular physics
+1.6.19 Nuclear physics
+1.6.20 Optics
+1.6.21 Particle physics
+1.6.22 Physics
+1.6.23 Planetary science
+1.6.24 Plasma physics
+1.6.25 Space science
+1.6.26 Quantum physics
+1.6.99 Other
+1.7 Chemical sciences	
+
+
+1.7.1 Analytical chemistry
+1.7.2 Chemistry
+1.7.3 Colloid chemistry
+1.7.4 Computational chemistry
+1.7.5 Electrochemistry
+1.7.6 Inorganic and nuclear chemistry	1.7.7 Mathematical chemistry
+1.7.8 Organic chemistry
+1.7.9 Physical chemistry
+1.7.10 Polymer science
+1.7.11 Other
+2. Engineering and Technology
+2.1 Civil engineering	
+
+
+2.1.1 Architecture engineering
+2.1.2 Civil engineering
+2.1.3 Civil Protection
+
+2.1.4 Construction/Structural engineering
+2.1.5 Transport engineering
+2.1.99 Other
+2.2 Electrical, electronic and information engineering	
+
+
+2.2.1 Communication engineering and systems
+2.2.2 Computer hardware and architecture
+2.2.3 Electrical and electronic engineering	2.2.4 Robotics, Automation and Control Systems
+2.2.99 Other
+2.3 Mechanical engineering	
+
+
+2.3.1 Applied mechanics
+2.3.2 Audio engineering
+2.3.3 Nuclear related engineering	2.3.4 Reliability analysis
+2.3.5 Thermodynamics
+2.3.99 Other
+2.4 Aerospace engineering	
+
+
+2.4.1 Aeronautical engineering
+2.4.2 Astronautical engineering
+2.4.99 Other	
+2.5 Chemical engineering	
+
+
+2.5.1 Chemical engineering "(plants, products)"
+2.5.2 Chemical process engineering
+2.5.99 Other	
+2.6 Materials engineering	
+
+
+2.6.1 Ceramics
+2.6.2 Coating and films
+2.6.3 Composites	2.6.4 Paper and wood 
+2.6.5 Textiles
+2.6.99 Other
+2.7 Bioengineering and Biomedical engineering	
+
+
+2.7.1 Bioengineering
+2.7.2 Biomedical engineering
+2.7.99 Other	
+2.8 Environmental engineering	
+
+
+2.8.1 Energy and fuels
+2.8.2 Geological engineering
+2.8.3 Geotechnics
+2.8.4 Ocean engineering
+2.8.5 Mining and mineral processing	2.8.6 Petroleum engineering
+2.8.7 Remote sensing
+2.8.8 Sea vessels
+2.8.99 Other
+2.9 Environmental biotechnology	
+
+
+2.9.1 Bioremediation
+2.9.2 Diagnostic biotechnologies
+2.9.99 Other	
+2.10 Industrial biotechnology	
+
+
+2.10.1 Bio-derived novel materials
+2.10.2 Biocatalysis 
+2.10.3 Bioderived bulk and fine chemicals
+2.10.4 Biofuels
+2.10.5 Biomaterials
+
+2.10.6 Bioprocessing technologies 
+2.10.7 Bioproducts
+2.10.8 Fermentation
+2.10.99 Other
+2.11 Nano-technology	
+
+
+2.11.1 Nano-materials
+2.11.2 Nano-processes
+2.11.99 Other
+
+
+3. Medical and Health Sciences
+3.1 Basic medicine	
+
+
+3.1.1 Anatomy and morphology 
+3.1.2 Human genetics
+3.1.3 Immunology
+3.1.4 Medicinal chemistry
+3.1.5 Neuroscience
+
+3.1.6 Pathology 
+3.1.7 Pharmacology and pharmacy
+3.1.8 Physiology
+3.1.9 Toxicology
+3.1.99 Other
+3.2 Clinical medicine	
+
+
+3.2.1 Allergy 
+3.2.2 Anaesthesiology 
+3.2.3 Andrology 
+3.2.4 Cardiac and Cardiovascular systems 
+3.2.5 Critical care/Emergency medicine 
+3.2.6 Dentistry, oral surgery/medicine 
+3.2.7 Dermatology and venereal diseases 
+3.2.8 Gastroenterology and hepatology 
+3.2.9 General and internal medicine 
+3.2.10 Geriatrics and gerontology 
+3.2.11 Hematology 
+3.2.12 Integrative and Complementary medicine 
+3.2.13 Medical imaging 
+3.2.14 Nuclear medicine 
+3.2.15 Obstetrics and gynaecology	3.2.16 Oncology 
+3.2.17 Ophthalmology 
+3.2.18 Optometry 
+3.2.19 Orthopaedics 
+3.2.20 Otorhinolaryngology 
+3.2.21 Paediatrics 
+3.2.22 Peripheral vascular disease 
+3.2.23 Psychiatry 
+3.2.24 Radiology 
+3.2.25 Respiratory systems 
+3.2.26 Rheumatology 
+3.2.27 Surgery 
+3.2.28 Transplantation 
+3.2.29 Urology and nephrology 
+3.2.99 Other
+3.3 Health sciences	
+
+
+3.3.1 Epidemiology 
+3.3.2 Health care science and services 
+3.3.3 Health policy and services 
+3.3.4 Infectious diseases 
+3.3.5 Medical ethics 
+3.3.6 Nursing 
+3.3.7 Nutrition and Dietetics 
+3.3.8 Occupational health	3.3.9 Parasitology 
+3.3.10 Public and environmental health 
+3.3.11 Social biomedical science 
+3.3.12 Sport and fitness science 
+3.3.13 Substance abuse 
+3.3.14 Tropical medicine 
+3.3.99 Other
+3.4 Medical biotechnology	
+
+
+3.4.1 Biomedical devices 
+3.4.2 Health-related biotechnology 
+3.4.3 Pharmaceutical biotechnology 
+3.4.4 Biotechnology and medical ethics	3.4.5 Molecular diagnostics 
+3.4.6 Biophysical manipulation 
+3.4.99 Other
+
+
+
+4. Agricultural Sciences
+4.1 Agriculture, forestry, and fisheries	
+
+
+4.1.1 Agriculture 
+4.1.2 Agronomy, plant breeding, plant protection 
+4.1.3 Fishery	4.1.4 Forestry 
+4.1.5 Horticulture and viticulture 
+4.1.6 Soil science 
+4.1.99 Other
+4.2 Animal and dairy sciences	
+
+
+4.2.1 Animal science 
+4.2.2 Dairy science 
+4.2.3 Husbandry	4.2.4 Pets 
+4.2.99 Other
+4.3 Veterinary sciences	
+
+
+4.3.1 Veterinary anaesthesiology 
+4.3.2 Veterinary medicine 
+4.3.3 Veterinary ophthalmology 
+4.3.4 Veterinary pathobiology	4.3.5 Veterinary radiology 
+4.3.6 Veterinary reproduction 
+4.3.7 Veterinary surgery 
+4.3.99 Other
+4.4 Agricultural biotechnology	
+
+
+4.4.1 Biomass feedstock production tech. 
+4.4.2 Biopharming 
+4.4.3 Diagnostics 
+4.4.4 Food biotechnology	4.4.5 GM technology ''(crops, livestock)'' 
+4.4.6 Livestock cloning 
+4.4.7 Marker assisted selection 
+4.4.99 Other
+
+
+
+5. Social Sciences
+5.1 Psychology	
+
+
+5.1.1 Biological Psychology 
+5.1.2 Clinical Psychology 
+5.1.3 Cognitive Psychology 
+5.1.4 Comparative Psychology 
+5.1.5 Developmental Psychology 
+5.1.6 Educational and School Psychology 
+5.1.7 Evolutionary Psychology	5.1.8 Industrial–organisational Psychology 
+5.1.9 Personality Psychology 
+5.1.10 Positive Psychology 
+5.1.11 Social Psychology 
+5.1.99 Other
+5.2 Economics, finance and business	
+
+
+5.2.1 Business and Management 
+5.2.2 Economics and Econometrics 
+5.2.3 Finance	5.2.4 Industrial relations 
+5.2.99 Other
+5.3 Educational sciences	
+
+
+5.3.1 General Education 
+5.3.2 Special Education ''(learning disabilities)'' 
+5.3.99 Other	
+5.4 Sociology	
+
+
+5.4.1 Anthropology 
+5.4.2 Demography 
+5.4.3 Ethnology 
+5.4.4 Family studies 
+5.4.5 Social issues	5.4.6 Social work 
+5.4.7 Sociology 
+5.4.8 Women's and gender studies 
+5.4.99 Other
+5.5 Law	
+
+
+5.5.1 Canon Law 
+5.5.2 Civil Law 
+5.5.3 Comparative Law 
+5.5.4 Competition Law 
+5.5.5 Constitutional Law	5.5.6 Criminal Law 
+5.5.7 Islamic Law 
+5.5.8 Jewish Law 
+5.5.9 Jurisprudence ''(Philosophy of Law)'' 
+5.5.99 Other
+5.6 Political sciences	
+
+
+5.6.1 Comparative politics 
+5.6.2 Empirical pata analysis 
+5.6.3 International relations 
+5.6.4 Organisation theory 
+5.6.5 Political economy	5.6.6 Political philosophy 
+5.6.7 Public administration 
+5.6.8 Theories of the state 
+5.6.99 Other
+5.7 Social and economic geography	
+
+
+5.7.1 Cultural and economic geography 
+5.7.2 Transport planning	5.7.3 Urban studies 
+5.7.99 Other
+5.8 Media and communications	
+
+
+5.8.1 Information science - social 
+5.8.2 Journalism 
+5.8.3 Library science	5.8.4 Media and socio-cultural communication 
+5.8.99 Other
+
+
+
+6. Humanities
+6.1 History and Archaeology	
+
+
+6.1.1 Archaeology 
+6.1.2 History ''(Prehistory; Ancient; Modern world)'' 
+6.1.99 Other	
+6.2 Languages and literature	
+
+
+6.2.1 General language studies 
+6.2.2 General literature studies 
+6.2.3 Linguistics 
+6.2.4 Literary theory	6.2.5 Specific languages 
+6.2.6 Specific literatures 
+6.2.99 Other
+6.3 Philosophy, ethics and religion	
+
+
+6.3.1 Ethics 
+6.3.2 Philosophy of science/technology 
+6.3.3 Philosophy	6.3.4 Religious studies 
+6.3.5 Theology 
+6.3.99 Other
+6.4 Arts	
+
+
+6.4.1 Architectural design 
+6.4.2 Folklore studies 
+6.4.3 Media Studies (Film, Radio, TV)	
+6.4.4 Musicology 
+6.4.5 Performing arts studies
+6.4.99 Other
+
+
+
+
+7. Support Activities
+
+7.1 Digital Archives	
+
+7.2 Infrastructure Development	
+
+7.3 Training/Demonstrations	
+
+7.4 Miscellaneous	
+
+7.99 Other

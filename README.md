@@ -4,7 +4,7 @@
 
 TODO
 
-Members: Farida R., Ramil H., Joshua K., Leyla 
+Members: Farida R., Ramil H., Joshua K., Leyla R.
 
 ### Setting up
 Using python 3.8.16 for this pip requirement.txt 
